@@ -1,0 +1,44 @@
+{
+  "analysis_query": "Analyze ROAS drop",
+  "timestamp": "2025-11-30T01:29:59.081348",
+  "summary_metrics": {
+    "total_campaigns": 367,
+    "date_range": "2025-01-01 to 2025-03-31",
+    "average_roas": 9.63,
+    "average_ctr": 0.01
+  },
+  "top_performers": {
+    "MEN PREMIUM -ODAL": {
+      "roas": 89.33,
+      "ctr": 0.01,
+      "spend": 69.39
+    },
+    "Men | Athlei ure Cooling": {
+      "roas": 85.33,
+      "ctr": 0.02,
+      "spend": 159.19
+    },
+    "women | studio sp-rts": {
+      "roas": 76.37,
+      "ctr": 0.01,
+      "spend": 32.57
+    }
+  },
+  "bottom_performers": {
+    "Men  Bold  Coors  Drop": {
+      "roas": 0.17,
+      "ctr": 0.01,
+      "spend": 359.02
+    },
+    "MEN COMFORTMA LAUNCH": {
+      "roas": 0.22,
+      "ctr": 0.01,
+      "spend": 784.31
+    },
+    "Men Bold Colors Dr p": {
+      "roas": 0.24,
+      "ctr": 0.01,
+      "spend": 316.29
+    }
+  }
+}

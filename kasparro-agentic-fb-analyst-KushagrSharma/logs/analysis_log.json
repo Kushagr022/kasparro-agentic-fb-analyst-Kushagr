@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-11-30T01:29:59.092034",
+  "query": "Analyze ROAS drop",
+  "agents_used": [
+    "Planner",
+    "Data",
+    "Insight",
+    "Evaluator",
+    "Creative"
+  ],
+  "status": "completed"
+}
