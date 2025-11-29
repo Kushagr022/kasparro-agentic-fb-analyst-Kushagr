@@ -1,17 +1,17 @@
-# 🚀 Kasparro Agentic Facebook Analyst
+# Kasparro Agentic Facebook Analyst
 
-## 🏢 Enterprise-Grade Multi-Agent System for Autonomous Facebook Ads Performance Analysis
+## Enterprise-Grade Multi-Agent System for Autonomous Facebook Ads Performance Analysis
 
 A sophisticated, self-directed agentic system that revolutionizes digital marketing analytics by autonomously diagnosing Facebook Ads performance, identifying ROAS fluctuations, and generating data-driven creative recommendations using advanced AI agents.
 
 ---
 
-## 🌟 Key Innovations
+## Key Innovations
 
-### 🤖 Intelligent Multi-Agent Architecture  
+### Intelligent Multi-Agent Architecture  
 This system implements a cutting-edge multi-agent architecture where five specialized AI agents collaborate seamlessly to perform complex marketing analytics tasks that traditionally require human experts.
 
-### 📊 Advanced Performance Diagnostics  
+### Advanced Performance Diagnostics  
 Beyond basic analytics, our system diagnoses the root causes behind ROAS changes, identifying subtle patterns like:
 
 - Audience fatigue  
@@ -20,14 +20,14 @@ Beyond basic analytics, our system diagnoses the root causes behind ROAS changes
 - Demographic shifts  
 - Competitive impacts  
 
-### 🎨 AI-Powered Creative Intelligence  
+### AI-Powered Creative Intelligence  
 The system doesn't just identify problems — it generates actionable creative solutions by analyzing existing high-performing content and suggesting data-driven improvements.
 
 ---
 
-## 🏗️ System Architecture Deep Dive
+## System Architecture Deep Dive
 
-### 🔥 Agent Specialization & Workflow
+### Agent Specialization & Workflow
 
 | Agent | Role | Core Capabilities | Output |
 |-------|------|-------------------|--------|
@@ -39,7 +39,7 @@ The system doesn't just identify problems — it generates actionable creative s
 
 ---
 
-## 🔄 Data Flow Pipeline
+## Data Flow Pipeline
 
 ```
 User Query
@@ -59,22 +59,22 @@ Outputs → insights.json, creatives.json, report.md, logs/
 
 ---
 
-## 🔬 Technical Implementation
+## Technical Implementation
 
-### 🛠️ Core Technologies
+### Core Technologies
 - Python 3.7+
 - pandas for data analysis
 - JSON for structured output
 - Modular multi-agent architecture
 
-### 📈 Analytics Capabilities
+### Analytics Capabilities
 - ROAS trend analysis  
 - CTR correlation studies  
 - Audience segmentation  
 - Creative performance benchmarking  
 - Time-series fluctuations detection  
 
-### 🎯 Feature Set Summary
+### Feature Set Summary
 
 #### Performance Diagnostics
 - Automatic root-cause analysis  
@@ -90,7 +90,7 @@ Outputs → insights.json, creatives.json, report.md, logs/
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 kasparro-agentic-fb-analyst/
@@ -120,7 +120,7 @@ kasparro-agentic-fb-analyst/
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1️⃣ Environment Setup
 
