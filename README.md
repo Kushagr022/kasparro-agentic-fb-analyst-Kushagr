@@ -1,4 +1,3 @@
-# kasparro-agentic-fb-analyst-Kushagr
 # Kasparro Agentic Facebook Analyst
 
 Multi-agent system for Facebook Ads performance analysis.
